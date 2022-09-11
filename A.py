@@ -4,7 +4,7 @@ from threading import Thread
 from random import choices, randint
 from time import time, sleep
 
-from pystyle import pystyle
+from pystyle import *
 from getpass import getpass as hinput
 
 
